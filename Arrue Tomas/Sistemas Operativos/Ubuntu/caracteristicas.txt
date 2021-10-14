@@ -1,0 +1,1 @@
+Ubuntu es una de las Distribuciones de Lunix basada en Debian. Esta orientada al usuario promedio y compuesto por multiples software de codigo abierto.
